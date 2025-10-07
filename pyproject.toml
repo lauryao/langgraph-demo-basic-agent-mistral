@@ -15,6 +15,7 @@ dependencies = [
     "langchain-mistralai>=0.2.0",
     # https://github.com/langchain-ai/react-agent/issues/26
     "protobuf>=6.3.1",
+    "langchain-openai>=0.3.34",
 ]
 
 
