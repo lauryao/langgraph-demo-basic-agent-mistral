@@ -1,7 +1,7 @@
 #from dotenv import load_dotenv
 #load_dotenv()
 
-from langchain_openai import ChatOpenAI
+#from langchain_openai import ChatOpenAI
 from langchain_mistralai import ChatMistralAI
 from langchain.chat_models import init_chat_model
 from langgraph.graph import StateGraph, START, END, MessagesState, add_messages
